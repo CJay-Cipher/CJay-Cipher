@@ -1,5 +1,4 @@
-👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=300&lines=Hi,+I+am+CJay.)](https://github.com/CJay-Cipher)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=200&lines=Hi,+I+am+CJay.)](https://github.com/CJay-Cipher) 👋
 - 👀 I’m interested in Data Science (Data Analytics, Machine Learning and Artificial Intelligence)
 - 🌱 I’m currently improving my skills on Data Wrangling, Visualisation and Analysis using python and also SQL
 - 💞️ I’m looking to collaborate on Data science related project inorder to improve my skills
