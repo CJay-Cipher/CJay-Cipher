@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF00&width=400&lines=.+.+.+Hi,+Welcome+👋)](https://github.com/CJay-Cipher)
-- 👀 I’m interested in Software Engineering, Data Science and Machine Learning
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m constantly learning new things to improve my skills
 - 📫 How to reach me: chijiokennabueze@gmail.com
 
